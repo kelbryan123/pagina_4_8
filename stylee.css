@@ -1,0 +1,30 @@
+.navegacion-principal{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+  margin-bottom: -60px;
+  margin-left: 100px;
+
+  }
+  a{
+      
+    color: rgb(241, 197, 197);
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 5;
+  }
+  a:hover{
+    text-decoration: underline;
+    font-size:17px;
+    color: rgb(255, 0, 43);
+  }
+  .contacto1{
+    background-image: url("img/reservas15.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 400px;
+    margin-left: -10px;
+    margin-right: -12px ;
+  }
+  

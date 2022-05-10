@@ -1,0 +1,27 @@
+#naldo{
+   margin:100px;
+
+
+}
+.color_letras{
+    color: bisque;
+}
+.navegacion-principal1{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.ping{
+    color: rgb(241, 197, 197);
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 5;
+    padding: 1rem;
+}
+.ping:hover{
+    text-decoration: underline;
+    font-size:17px;
+    color: rgb(255, 0, 43);
+}
